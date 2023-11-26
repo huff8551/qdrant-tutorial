@@ -20,3 +20,9 @@ pip install Faker
 ```
 
 ## Run main.ipynb jupyter notebook file
+
+
+### Sources
+
+https://www.youtube.com/watch?v=2cGM1fEbWJQ - Intro to Qdrant
+https://www.youtube.com/watch?v=LRcZ9pbGnno - Getting started with Qdrant
