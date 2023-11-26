@@ -19,4 +19,4 @@ pip install numpy
 pip install Faker
 ```
 
-## Run .ipynb jupyter notebook file present in ./src directory
+## Run main.ipynb jupyter notebook file
